@@ -1,0 +1,14 @@
+- Add hike
+- Update hikes
+- Delete hikes
+- Read hikes
+    - Search hikes near location
+    - Read hike
+        - Show map
+        - Route
+
+
+Hike
+    Person
+    Checkpoints
+    
